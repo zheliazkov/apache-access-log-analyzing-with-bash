@@ -1,4 +1,4 @@
-# Apache access.log analyzein with BASH
+# Apache access.log analyzing with BASH
 
 ## Description
 
